@@ -32,7 +32,7 @@ https://public.tableau.com/app/profile/i.pek.akdeniz/viz/GameAnalyticsDashboard_
 📊 KPI-style time labels (HH format)
 
 📷 Dashboard Preview
-![Dashboard Preview](images/Game Analytics Dashboard.png)
+![Dashboard]("images/Game Analytics Dashboard.png")
 
 💡 What I Learned
 -Building interactive dashboards in Tableau
